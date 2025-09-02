@@ -1,1 +1,2 @@
-# Project-Cohort-Analysis_Online-Retail-Data
+# Project RFM Analysis 
+The data uses the Online Retail dataset to analyse
